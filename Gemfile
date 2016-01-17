@@ -22,6 +22,7 @@ end
 
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'autoprefixer-rails','~>5.2.1'
+gem 'devise'
 gem 'jquery-rails'
 
 # To use ActiveModel has_secure_password
